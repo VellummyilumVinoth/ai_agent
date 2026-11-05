@@ -1,0 +1,3 @@
+[workspace]
+title = "AI Agent"
+packages = ["ai_agent"]

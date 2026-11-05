@@ -1,0 +1,9 @@
+[package]
+org = "vinoth"
+name = "ai_agent"
+version = "0.1.0"
+distribution = "2201.14.0"
+title = "Ai Agent"
+
+[build-options]
+sticky = true
